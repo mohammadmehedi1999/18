@@ -5,13 +5,16 @@
     }
 
     .main-menu ul li {
-        padding: 0px 23px;
+        padding: 0px 13px;
     }
     .foter-area {
         text-align: center;
     }
     .foter-area .right {
         text-align: center;
+    }
+    .main-menu ul li a {
+        padding: 25px 0;
     }
 }
 
